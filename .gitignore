@@ -1,0 +1,6 @@
+# Exclude everything except what maintained by hand
+/*
+!.gitignore
+!cdb-revise.py
+!cdb-revise.bat
+!README.org
